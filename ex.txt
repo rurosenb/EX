@@ -1,0 +1,20 @@
+# Welcome to Example File (ex.txt)
+This is a sample text file containing example data.
+
+Name: Ruty Rosenberg
+Project: EX
+Date: 2025-07-29
+
+--- Sample Pseudocode ---
+1. Initialize project
+2. Add README.md
+3. Commit changes
+4. Connect to GitHub
+5. Push to remote
+6. Add branch b1 with updates
+7. push to remote 
+
+--- Notes ---
+- Remember to write meaningful commit messages.
+- Use 'git status' frequently to check your progress.
+- Happy coding! 🚀
